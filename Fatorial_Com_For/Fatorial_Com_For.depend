@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555541607 source:d:\codeblocks\fatorial_com_for\main.c
+	<stdio.h>
+	<stdlib.h>
+
